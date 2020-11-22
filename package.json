@@ -1,0 +1,29 @@
+{
+  "name": "insurance-policies",
+  "version": "1.0.0",
+  "description": "Project Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js",
+    "lint": "eslint --ext .js src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crigalbla/insurance-policies.git"
+  },
+  "author": "Cristian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crigalbla/insurance-policies/issues"
+  },
+  "homepage": "https://github.com/crigalbla/insurance-policies#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "nodemon": "^2.0.6"
+  }
+}

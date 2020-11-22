@@ -51,4 +51,4 @@ GET /policies/id:id
 ```
 
 # Note
-This API do not use authentication
+This API does not use authentication

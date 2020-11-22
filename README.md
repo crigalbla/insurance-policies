@@ -1,7 +1,7 @@
 # insurance-policies
 Project in NodeJS created using express and axios. Also other libraries added are 'morgan' to show the request status by console, and 'nodemon' to autorun the server when it change. The server run on port 3000.
 
-If data to requests is lost, use backup in src/data.
+If data to requests is lost, use backup in /data.
 
 ## Instructions
 To run the server execute:
